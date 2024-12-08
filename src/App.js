@@ -12,6 +12,7 @@ function App() {
           <p>Choose a category from the menu.</p>
         </div>
       </main>
+      {/* test */}
     </div>
   );
 }
